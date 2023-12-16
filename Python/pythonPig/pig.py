@@ -1,4 +1,4 @@
-# Pig (Dice Gane)
+# Pig (Dice Game)
 
 import random
 
