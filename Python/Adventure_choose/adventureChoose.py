@@ -30,3 +30,5 @@ elif answer == "right":
         print("Not a valid option. You lose.")
 else:
     print("Not a valid option. You lose.")
+
+print("Thank you for playing, " + name + ".")
